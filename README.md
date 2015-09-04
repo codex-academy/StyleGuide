@@ -22,6 +22,7 @@ Some common terms and our preferred capitalisation:
 * AJAX
 * Git
 * GitHub
+* Node (or Node.js)
 * SQL
 * MySQL
 * phpMyAdmin
@@ -42,6 +43,7 @@ Some common terms and our preferred capitalisation:
 * Inline code snippets use a single backtick
 * Fenced code blocks are surrounded by blank lines and have a language specified
 * Emphasis markers, code elements, and link text have no spaces inside
+* Code or file names are enclosed by backticks
 * Lists
     * are surrounded by a blank line
     * start at the beginning of the line
