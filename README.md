@@ -50,3 +50,4 @@ Some common terms and our preferred capitalisation:
     * are indented with 4 spaces
     * have spaces after list markers
 * Unordered lists use asterisks
+* Use `---` for table header dividers
