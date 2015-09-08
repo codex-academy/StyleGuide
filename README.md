@@ -37,6 +37,17 @@ Some common terms and our preferred capitalisation:
 * No trailing punctuation
 * Increment one level at a time
 
+
+Example:
+
+```markdown
+# Heading 1
+
+Some context text.
+
+## The next heading
+```
+
 ### Content
 
 * Don't use bare URLs: always use descriptive link text
@@ -51,3 +62,38 @@ Some common terms and our preferred capitalisation:
     * have spaces after list markers
 * Unordered lists use asterisks
 * Use `---` for table header dividers
+
+Examples:
+
+```markdown
+Check out [project codeX](http://www.projectcodex.co/).
+```
+
+```markdown
+Change directories using `cd`.
+```
+
+```markdown
+```javascript
+    console.log("Hello, world!");
+``````
+
+```markdown
+Put your code into `hello.js`.
+```
+
+```markdown
+Web pages are made of:
+
+* HTML
+* CSS
+* JavaScript
+```
+
+```markdown
+| What | For |
+| --- | --- | --- |
+| HTML | Structured Content |
+| CSS | Presentation |
+| JavaScript | Behaviour
+```
