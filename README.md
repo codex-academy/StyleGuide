@@ -86,8 +86,11 @@ Put your code into `hello.js`.
 Web pages are made of:
 
 * HTML
+    * Structured Content
 * CSS
+    * Structured Content
 * JavaScript
+    * Presentation
 ```
 
 ```markdown
