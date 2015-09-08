@@ -95,5 +95,5 @@ Web pages are made of:
 | --- | --- | --- |
 | HTML | Structured Content |
 | CSS | Presentation |
-| JavaScript | Behaviour
+| JavaScript | Behaviour |
 ```
