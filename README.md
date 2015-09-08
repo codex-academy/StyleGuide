@@ -74,9 +74,10 @@ Change directories using `cd`.
 ```
 
 ```markdown
-```javascript
+    ```javascript
     console.log("Hello, world!");
-``````
+    ```
+```
 
 ```markdown
 Put your code into `hello.js`.
