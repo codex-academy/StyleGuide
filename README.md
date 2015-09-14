@@ -8,6 +8,7 @@ For more consistent and readable code and content.
 * Talk about the coder, using the second person: "Next you will be installing Git."
 * Say "on the server" instead of "on the backend."
 
+Placeholder variables are written in all caps, with no spaces inside angle brackets, like: `<USERNAME>`.
 
 ### Technical terms
 
@@ -38,7 +39,7 @@ Some common terms and our preferred capitalisation:
 * Increment one level at a time
 
 
-Example:
+#### Example
 
 ```markdown
 # Heading 1
@@ -63,7 +64,7 @@ Some context text.
 * Unordered lists use asterisks
 * Use `---` for table header dividers
 
-Examples:
+#### Examples
 
 ```markdown
 Check out [project codeX](http://www.projectcodex.co/).
