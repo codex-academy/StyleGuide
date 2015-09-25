@@ -62,7 +62,9 @@ Some context text.
     * are indented with 4 spaces
     * have spaces after list markers
 * Unordered lists use asterisks
-* Use `---` for table header dividers
+* Tables
+    * Use `---` for table header dividers
+    * [Markdown tables for non-techies](http://www.tablesgenerator.com/markdown_tables)  
 
 #### Examples
 
